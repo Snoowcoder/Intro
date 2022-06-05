@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Snoowcoder
-- 👀 I’m interested in python 
+- 👀 I’m interested in python, Java 
 - 🌱 I’m currently learning ...
 - 💞️ I’m learning coding
 
